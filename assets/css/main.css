@@ -3783,3 +3783,27 @@ input, select, textarea {
 			}
 
 		}
+
+
+
+/* Font Awesome */
+	.first-section-images {
+		transform: translateY(10);
+		padding-bottom: 55px;
+		padding-top: 45px;
+		transform: scale(6);
+	}
+	#first-section-image2 {
+		padding-bottom: 55px;
+		padding-top: 45px;
+		size: 10in;
+		transform: scale(106);
+	}
+	#first-section-image3 {
+		padding-bottom: 55px;
+		padding-top: 45px;
+		size: 10in;
+		transform: scale(106);
+		scale: 600%;
+		margin-top: auto;
+	}
